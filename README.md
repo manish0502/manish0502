@@ -10,8 +10,6 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/)
 
 - 💬 Ask me about **Angular , Nodejs ,Express ,MongoDB ,Blockchain , Hyperledger-Fabric Typescript & Javascript**
-- 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​">
 
 - 📫 How to reach me **manishgoswami495@gmail.com**
 
