@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full stack & different Blockchain projects**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Everything**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/)
 
