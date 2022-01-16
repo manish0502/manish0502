@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/)
 
-- 💬 Ask me about ** Javascript ,Typescript , Angular ,Nest (NestJS) ,Nodejs ,Express , HapiJs, MongoDB ,Blockchain & Hyperledger-Fabric**
+- 💬 Ask me about **Javascript ,Typescript , Angular ,Nest (NestJS) ,Nodejs ,Express , HapiJs, MongoDB ,Blockchain & Hyperledger-Fabric**
 
 - 📫 How to reach me **manishgoswami495@gmail.com**
 
