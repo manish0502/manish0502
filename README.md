@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish0502&label=Profile%20views&color=0e75b6&style=flat" alt="manish0502" /> </p>
 
-- 🔭 I’m currently working on **Full stack & different Blockchain projects**
+- 🔭 I’m currently working on **Full stack , System design ,Event driven Architecture ,test automation with cypress & different Blockchain projects**
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Generative AI **
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/)
 
-- 💬 Ask me about **Angular , Nest (NestJS) ,Nodejs ,Express , React, Postgresql , MongoDB ,Blockchain & Hyperledger-Fabric**
+- 💬 Ask me about **Angular ,Nodejs ,Express , MongoDB, Postgresql ,Cypress automation, Kafka ,K6 performance testing & Blockchain**
 
 - 📫 How to reach me **manishgoswami495@gmail.com**
 
