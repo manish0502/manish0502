@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full stack , System design ,Event driven Architecture ,test automation with cypress & different Blockchain projects**
 
-- 🌱 I’m currently learning **Generative AI **
+- 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/)
 
