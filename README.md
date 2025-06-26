@@ -4,7 +4,7 @@
 
 ### 🚀 Passionate Full Stack Developer | System Architect | Blockchain Enthusiast 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=5%2B+Years+Experience;Full+Stack+Developer;System+Design+Expert;Blockchain+Developer;Test+Automation+Engineer;Performance+Testing+Specialist;Cloud+Architecture+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;System+Design+Expert;Blockchain+Developer;Test+Automation+Engineer;Performance+Testing+Specialist;Cloud+Architecture+Specialist" alt="Typing SVG" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=manish0502&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/manish0502)
 [![GitHub followers](https://img.shields.io/github/followers/manish0502?label=Followers&style=for-the-badge&color=blue)](https://github.com/manish0502)
