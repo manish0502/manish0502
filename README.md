@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Manish Kumar Giri
 
-### 🚀 Passionate Full Stack Developer | System Architect | Blockchain Enthusiast | 5+ Years Experience
+### 🚀 Passionate Full Stack Developer | System Architect | Blockchain Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=5%2B+Years+Experience;Full+Stack+Developer;System+Design+Expert;Blockchain+Developer;Test+Automation+Engineer;Performance+Testing+Specialist;Cloud+Architecture+Specialist" alt="Typing SVG" />
 
