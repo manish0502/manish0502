@@ -24,7 +24,7 @@
 
 📝 **Tech Writer:** Sharing insights on [LinkedIn](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/) about cutting-edge technologies
 
-💬 **Ask Me About:** Angular, Node.js, Express, MongoDB, PostgreSQL, Cypress Automation, Kafka, K6 Performance Testing & Blockchain Development
+💬 **Ask Me About:** Angular, React, Node.js, NestJS, Express, MongoDB, PostgreSQL, Redis, Cypress Automation, Kafka, RabbitMQ, K6 Performance Testing & Blockchain Development
 
 📫 **Reach Me:** [manishgoswami495@gmail.com](mailto:manishgoswami495@gmail.com)
 
@@ -37,6 +37,7 @@
 <div align="center">
 
 ### 🎨 Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,6 +48,7 @@
 
 ### ⚙️ Backend Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -54,6 +56,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CouchDB](https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apache-couchdb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🧪 Testing & Quality Assurance
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -62,19 +65,26 @@
 
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#00D4AA)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ### ☁️ Cloud & Deployment
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🔗 Messaging & Communication
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 </div>
 
@@ -126,11 +136,13 @@ mindmap
   root)💻 Manish's Expertise(
     🌐 Full Stack Development
       Frontend
+        React
         Angular
         TypeScript/JavaScript
         HTML/CSS/SASS
       Backend
         Node.js
+        NestJS
         Express.js
         RESTful APIs
     🏗️ System Architecture
@@ -138,6 +150,7 @@ mindmap
       Microservices
       System Design Patterns
       Scalable Solutions
+      Caching with Redis
     🧪 Quality Assurance
       Test Automation
         Cypress
@@ -154,13 +167,19 @@ mindmap
     📊 Data Management
       MongoDB
       PostgreSQL
+      Redis Caching
       Data Modeling
       Database Optimization
-    ⚡ DevOps
-      Docker
+    ⚡ DevOps & Cloud
+      Docker & Docker Swarm
+      ArgoCD
+      Azure Cloud
       CI/CD Pipelines
-      Cloud Deployment
       Monitoring & Logging
+    📡 Message Queuing
+      Apache Kafka
+      RabbitMQ
+      Event Streaming
 ```
 
 </div>
@@ -173,6 +192,7 @@ mindmap
 - 📈 Performance Testing Best Practices with K6
 - 🔧 System Design Patterns for Scalable Applications
 - 🌐 Building Event-Driven Architectures with Node.js and Kafka
+- ⚡ Redis Caching Strategies for High-Performance Applications
 
 ---
 
@@ -192,9 +212,10 @@ mindmap
 
 - 🤖 **Generative AI**: Exploring the cutting-edge of artificial intelligence
 - 🔐 **Blockchain Innovation**: Building next-generation decentralized applications
-- 🚀 **System Architecture**: Designing scalable, event-driven systems
+- 🚀 **System Architecture**: Designing scalable, event-driven systems with Redis caching
 - 🧪 **Test Automation**: Creating robust testing frameworks
 - 📊 **Performance Engineering**: Optimizing application performance
+- ☁️ **Cloud-Native Development**: Building scalable solutions on Azure
 
 ---
 
