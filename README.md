@@ -2,9 +2,9 @@
   
 # 👋 Hi there, I'm Manish Kumar Giri
 
-### 🚀 Passionate Full Stack Developer | System Architect | Blockchain Enthusiast
+### 🚀 Passionate Full Stack Developer | System Architect | Blockchain Enthusiast | 5+ Years Experience
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;System+Design+Expert;Blockchain+Developer;Test+Automation+Engineer;Performance+Testing+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=5%2B+Years+Experience;Full+Stack+Developer;System+Design+Expert;Blockchain+Developer;Test+Automation+Engineer;Performance+Testing+Specialist;Cloud+Architecture+Specialist" alt="Typing SVG" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=manish0502&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/manish0502)
 [![GitHub followers](https://img.shields.io/github/followers/manish0502?label=Followers&style=for-the-badge&color=blue)](https://github.com/manish0502)
@@ -18,17 +18,19 @@
 
 ## 🎯 About Me
 
-🔭 **Currently Working On:** Full Stack Development, System Design, Event-Driven Architecture, Test Automation with Cypress & Revolutionary Blockchain Projects
+💼 **Experience:** 5+ years of professional software development excellence since August 2019
 
-🌱 **Currently Learning:** Generative AI & Advanced Machine Learning Techniques
+🔭 **Currently Working On:** Enterprise-grade Full Stack Applications, Scalable System Architecture, Event-Driven Microservices, Advanced Test Automation & Next-Gen Blockchain Solutions
 
-📝 **Tech Writer:** Sharing insights on [LinkedIn](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/) about cutting-edge technologies
+🌱 **Currently Learning:** Generative AI, Advanced Machine Learning, Cloud-Native Architecture Patterns & Web3 Technologies
 
-💬 **Ask Me About:** Angular, React, Node.js, NestJS, Express, MongoDB, PostgreSQL, Redis, Cypress Automation, Kafka, RabbitMQ, K6 Performance Testing & Blockchain Development
+📝 **Tech Writer:** Sharing insights on [LinkedIn](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/) about cutting-edge technologies and software engineering best practices
+
+💬 **Ask Me About:** Angular, React, Node.js, NestJS, Express, MongoDB, PostgreSQL, Redis, Cypress Automation, Kafka, RabbitMQ, K6 Performance Testing, System Design & Blockchain Development
 
 📫 **Reach Me:** [manishgoswami495@gmail.com](mailto:manishgoswami495@gmail.com)
 
-⚡ **Fun Fact:** I think I'm funny XD (and I probably am! 😄)
+⚡ **Fun Fact:** I believe great code should be as elegant as poetry - readable, efficient, and beautiful! 🎨
 
 ---
 
@@ -186,13 +188,16 @@ mindmap
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Latest Blog Posts & Articles
 
 - 🔗 [Deep Dive: Zero Knowledge Proof (ZK-SNARK)](https://www.linkedin.com/pulse/deep-dive-zero-knowledge-proof-zk-snark-manish-kumar-giri-/)
+- 🚀 Microservices Architecture Patterns with Node.js & NestJS
 - 📈 Performance Testing Best Practices with K6
 - 🔧 System Design Patterns for Scalable Applications
-- 🌐 Building Event-Driven Architectures with Node.js and Kafka
+- 🌐 Building Event-Driven Architectures with Kafka & RabbitMQ
 - ⚡ Redis Caching Strategies for High-Performance Applications
+- 🧪 Advanced Test Automation with Cypress & Jest
+- ☁️ Cloud-Native Development on Azure: Best Practices
 
 ---
 
@@ -208,22 +213,23 @@ mindmap
 
 ---
 
-## 💡 Current Focus
+## 💡 Current Focus & Expertise
 
-- 🤖 **Generative AI**: Exploring the cutting-edge of artificial intelligence
-- 🔐 **Blockchain Innovation**: Building next-generation decentralized applications
-- 🚀 **System Architecture**: Designing scalable, event-driven systems with Redis caching
-- 🧪 **Test Automation**: Creating robust testing frameworks
-- 📊 **Performance Engineering**: Optimizing application performance
-- ☁️ **Cloud-Native Development**: Building scalable solutions on Azure
+- 🤖 **Generative AI & ML**: Exploring cutting-edge artificial intelligence and machine learning applications
+- 🔐 **Blockchain Innovation**: Building next-generation decentralized applications and smart contracts
+- 🏗️ **System Architecture**: Designing scalable, event-driven microservices with Redis caching strategies
+- 🧪 **Test Automation**: Creating comprehensive testing frameworks with Cypress, Jest, and K6
+- 📊 **Performance Engineering**: Optimizing application performance and system scalability
+- ☁️ **Cloud-Native Development**: Building resilient, scalable solutions on Azure with containerization
+- 🔄 **DevOps Excellence**: Implementing CI/CD pipelines with Docker, ArgoCD, and GitOps practices
 
 ---
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💫 "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines." - Robert C. Martin
 
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+**Let's collaborate and build something extraordinary together! 🚀**
 
 [![](https://visitcount.itsvg.in/api?id=manish0502&icon=0&color=0)](https://visitcount.itsvg.in)
 
