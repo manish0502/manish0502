@@ -14,11 +14,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://github.com/manish0502/manish0502/blob/main/ezgif.com-gif-maker.gif">
+<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🎯 About Me
-
-💼 **Experience:** 5+ years of professional software development excellence since August 2019
 
 🔭 **Currently Working On:** Enterprise-grade Full Stack Applications, Scalable System Architecture, Event-Driven Microservices, Advanced Test Automation & Next-Gen Blockchain Solutions
 
