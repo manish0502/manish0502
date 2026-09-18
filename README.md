@@ -60,48 +60,7 @@ Production systems shipped across FinTech, gaming, blockchain, and enterprise wo
 
 ---
 
-## 🛠️ Full Stack Engineering
-
-<div align="center">
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,sass,bootstrap" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,c" />
-
-**Data & Storage**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,couchdb" />
-
-**Testing & Performance**
-<br/>
-<img src="https://skillicons.dev/icons?i=cypress,jest" />
-<img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
-
-**Messaging & Event Streaming**
-<br/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-
-**DevOps & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,gitlab,bitbucket,linux,webpack" />
-<img src="https://img.shields.io/badge/ArgoCD-1e0b3e?style=for-the-badge&logo=argo&logoColor=%2300D4AA" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-
-**Dev Tools**
-<br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
-
-</div>
-
----
-
-## 🤖 AI & Agentic Engineering
+## 🤖 Agentic AI & LLM Engineering
 
 Not just calling LLM APIs — designing the orchestration layer around them: how agents plan, retrieve, reason, and hand off work reliably.
 
@@ -112,13 +71,11 @@ Not just calling LLM APIs — designing the orchestration layer around them: how
 | 🧠 **Agentic Orchestration** | Multi-agent architectures, agent handoff & routing, task decomposition, LangGraph state machines |
 | 🔍 **RAG Systems** | Retrieval pipelines, vector search, chunking strategies, grounding LLM output in real data |
 | 🛠️ **AI-Assisted Engineering** | Claude Code, Cursor — used for architecture, refactors, and system design, not just autocomplete |
-| ✍️ **Prompt Engineering** | Structured prompting, tool-use design, context management for reliable multi-step agent behavior |
+| ✍️ **Prompt Engineering** | Structured prompting, tool-use design, context management for multi-step agent reliability |
 | 🔗 **LLM Integration** | Azure OpenAI, LangChain, LangGraph — wired into existing event-driven backend systems |
 | 🏗️ **System Design for AI** | Agent systems built with distributed-systems rigor — fault tolerance, observability, predictable failure modes |
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -127,6 +84,32 @@ Not just calling LLM APIs — designing the orchestration layer around them: how
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+
+</div>
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+
+**⚙️ Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+
+**🎨 Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,js,html,css" />
+
+**🗄️ Databases & Caching**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+
+**☁️ Other — Infra, Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git" />
+<img src="https://img.shields.io/badge/ArgoCD-1e0b3e?style=for-the-badge&logo=argo&logoColor=%2300D4AA" />
 
 </div>
 
