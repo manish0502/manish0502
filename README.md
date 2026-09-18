@@ -1,18 +1,19 @@
 <div align="center">
 
-# 👋 Hi, I'm Manish Kumar Giri
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=200&section=header&text=Manish%20Kumar%20Giri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Event-Driven%20Systems%20%7C%20AI-Native%20Automation&descAlignY=58&descSize=18" />
 
-### Senior Backend Engineer | Event-Driven Systems | Building AI-Native Automation
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Event-Driven+Backend+%7C+Kafka+%7C+Distributed+Systems;Performance+Gains+via+Architecture%2C+Not+Just+Code;Now+Building%3A+LLM+Agents+%2B+LangGraph+in+Production" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Event-Driven+Backend+%7C+Kafka+%7C+Distributed+Systems;Performance+Gains+via+Architecture%2C+Not+Just+Code;Now+Building%3A+LLM+Agents+%2B+LangGraph+in+Production" alt="Typing SVG" />
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-giri/)
 [![Gmail](https://img.shields.io/badge/Gmail-Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishgoswami495@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=manish0502&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/manish0502)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manishgoswami495)
+<img src="https://komarev.com/ghpvc/?username=manish0502&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
 
 </div>
 
----
+<br/>
 
 ## 🎯 About Me
 
@@ -24,11 +25,24 @@ One of my contributions **improved processing performance by 40%** — that came
 
 I now design backend systems for **AI-powered automation**, integrating **LLM-based agents** into production workflows to reduce manual, repetitive work.
 
-🏆 Recognised as a **Top Performer** for architecture contributions and measurable performance improvements
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🎓 Published research on **ML-based heart disease prediction** — where my interest in applied AI started
+**🏆 Recognition**
+Top Performer — architecture contributions & measurable performance improvements
 
-🟢 **Open to:** Senior Backend / Staff Engineer roles in FinTech · Payments · AI-native Platforms · Enterprise Automation · Distributed Systems
+</td>
+<td width="50%" valign="top">
+
+**🎓 Research**
+Published work on ML-based heart disease prediction — the starting point of my applied AI journey
+
+</td>
+</tr>
+</table>
+
+🟢 **Open to:** Senior Backend / Staff Engineer roles in `FinTech` · `Payments` · `AI-native Platforms` · `Enterprise Automation` · `Distributed Systems`
 
 > If you're building something hard, let's talk.
 
@@ -36,7 +50,15 @@ I now design backend systems for **AI-powered automation**, integrating **LLM-ba
 
 ## 🧭 Domain Breadth
 
-I've shipped production systems across multiple industries — FinTech, gaming, blockchain, and enterprise workflow automation — and each one taught me something different about what **"production-ready"** actually means.
+I've shipped production systems across multiple industries — FinTech, gaming, blockchain, and enterprise workflow automation. Each domain taught me something different about what **"production-ready"** actually means.
+
+<div align="center">
+
+| 💰 FinTech | 🎮 Gaming | ⛓️ Blockchain | 🏢 Enterprise Automation |
+|:---:|:---:|:---:|:---:|
+| Financial automation & reconciliation at scale | Consumer product backends at scale | Hyperledger Fabric & Indy | Workflow & reconciliation systems |
+
+</div>
 
 ---
 
@@ -44,33 +66,30 @@ I've shipped production systems across multiple industries — FinTech, gaming, 
 
 <div align="center">
 
-### ⚙️ Backend & Event Streaming
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+**Backend & Event Streaming**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,kafka,nestjs" />
 
-### 🤖 AI / LLM Orchestration
-![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**AI / LLM Orchestration**
+<br/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python" />
 
-### 🗄️ Data & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+**Data & Storage**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 
-### 🎨 Frontend (when the full stack needs it)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=angular,react" />
 
-### ☁️ Infra & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=%2300D4AA)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+**Infra & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git" />
+<img src="https://img.shields.io/badge/ArgoCD-1e0b3e?style=for-the-badge&logo=argo&logoColor=%2300D4AA" />
 
 </div>
 
@@ -83,12 +102,19 @@ graph LR
     A[Enterprise Data] -->|Event Stream| B[Kafka]
     B --> C[Node.js + TS Microservices]
     C --> D{Idempotent Processing}
-    D --> E[PostgreSQL / MongoDB]
+    D --> E[(PostgreSQL / MongoDB)]
     C --> F[LangGraph + Azure OpenAI Agents]
     F --> G[Automated Workflows]
     D -.dead-letter queue.-> H[Fault Recovery]
-    style F fill:#00D9FF,color:#000
+
+    style A fill:#26215C,color:#fff
     style B fill:#000,color:#fff
+    style C fill:#0C447C,color:#fff
+    style D fill:#712B13,color:#fff
+    style E fill:#27500A,color:#fff
+    style F fill:#00D9FF,color:#000
+    style G fill:#085041,color:#fff
+    style H fill:#791F1F,color:#fff
 ```
 
 Correctness, fault tolerance, and zero data loss first — intelligence layered on top, not bolted underneath.
@@ -108,30 +134,62 @@ Correctness, fault tolerance, and zero data loss first — intelligence layered 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manish0502&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish0502&layout=compact&theme=radical"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=manish0502&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish0502&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manish0502&theme=tokyonight&hide_border=true&background=0d1117" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=manish0502&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
+
+### 🐍 Contribution Snake (daily commit graph, animated)
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish0502&theme=radical)](https://github.com/manish0502)
+<img src="https://raw.githubusercontent.com/manish0502/manish0502/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
+
+> ⚙️ **One-time setup for the snake animation above** (this makes your daily commit streak visually undeniable):
+> 1. Go to your profile repo → **Settings → Actions → General** → enable Actions
+> 2. Add this file at `.github/workflows/snake.yml` in your `manish0502/manish0502` repo:
+> ```yaml
+> name: generate snake
+> on:
+>   schedule:
+>     - cron: "0 */6 * * *"
+>   workflow_dispatch: {}
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: manish0502
+>           outputs: dist/github-contribution-grid-snake-dark.svg
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> 3. Commit it — the snake regenerates automatically every 6 hours from your real contribution graph.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manish0502&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/manish0502)
+[![Manish's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish0502&theme=tokyo-night&hide_border=true&bg_color=0d1117&custom_title=Daily%20Contribution%20Graph)](https://github.com/manish0502)
 
 </div>
 
-<div align="center">
-
-[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish0502&theme=react-dark&custom_title=Daily%20Contribution%20Graph)](https://github.com/manish0502)
-
-</div>
-
-> 🔥 I commit daily — the streak stats and activity graph above update automatically and reflect real, ongoing work.
+> 🔥 I commit daily — every graph above pulls live from GitHub and updates automatically.
 
 ---
 
@@ -149,12 +207,6 @@ I'm open to **Senior Backend / Staff Engineer** roles at product companies worki
 
 </div>
 
----
-
-<div align="center">
-
-### 💫 "Clean code is not written by following a set of rules. Professionalism and craftsmanship come from values that drive disciplines." — Robert C. Martin
-
-[![](https://visitcount.itsvg.in/api?id=manish0502&icon=0&color=0)](https://visitcount.itsvg.in)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:2c5364,100:0f2027&height=100&section=footer" />
 
 </div>
