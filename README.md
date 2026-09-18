@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=200&section=header&text=Manish%20Kumar%20Giri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Event-Driven%20Systems%20%7C%20AI-Native%20Automation&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=190&section=header&text=Manish%20Kumar%20Giri&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20System%20Architect%20%7C%20AI-Native%20Automation&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Event-Driven+Backend+%7C+Kafka+%7C+Distributed+Systems;Designing+Multi-Agent+%2B+RAG+Systems+in+Production;Claude+Code+%7C+Cursor+%7C+LangGraph+%7C+Agentic+Orchestration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Full+Stack+%7C+Event-Driven+Backend+%7C+System+Design;Designing+Multi-Agent+%2B+RAG+Systems+in+Production;Claude+Code+%7C+Cursor+%7C+LangGraph+%7C+Agentic+Orchestration" alt="Typing SVG" />
 
 <br/>
 
@@ -17,13 +17,11 @@
 
 ## 🎯 About Me
 
-I've spent **5+ years making sure financial systems don't break when it matters most.**
-
-I build **event-driven backend infrastructure** for enterprise-scale automation — systems where correctness isn't optional and performance directly affects business outcomes.
+I've spent **5+ years making sure systems don't break when it matters most** — full stack development, event-driven backend architecture, and system design at enterprise scale.
 
 One of my contributions **improved processing performance by 40%** — that came from rethinking the architecture, not just optimizing code.
 
-I now design **multi-agent AI systems** — combining RAG pipelines, agentic orchestration, and LLM integration — and build them the same way I build distributed systems: with fault tolerance, idempotency, and correctness in mind, not as isolated scripts.
+I now design **multi-agent AI systems** — RAG pipelines, agentic orchestration, LLM integration — building them with the same rigor I apply to distributed systems: fault tolerance, idempotency, and correctness first, intelligence layered on top.
 
 <table>
 <tr>
@@ -36,7 +34,7 @@ Top Performer — architecture contributions & measurable performance improvemen
 <td width="50%" valign="top">
 
 **🎓 Research**
-Published work on ML-based heart disease prediction — the starting point of my applied AI journey
+Published work on ML-based heart disease prediction — where my applied AI journey started
 
 </td>
 </tr>
@@ -50,7 +48,7 @@ Published work on ML-based heart disease prediction — the starting point of my
 
 ## 🧭 Domain Breadth
 
-I've shipped production systems across multiple industries — FinTech, gaming, blockchain, and enterprise workflow automation. Each domain taught me something different about what **"production-ready"** actually means.
+Production systems shipped across FinTech, gaming, blockchain, and enterprise workflow automation — each domain taught me something different about what **"production-ready"** actually means.
 
 <div align="center">
 
@@ -62,9 +60,50 @@ I've shipped production systems across multiple industries — FinTech, gaming, 
 
 ---
 
-## 🤖 AI Engineering Toolkit
+## 🛠️ Full Stack Engineering
 
-I'm not just calling LLM APIs — I design the **orchestration layer** around them: how agents plan, retrieve, reason, and hand off work reliably.
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css,sass,bootstrap" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,c" />
+
+**Data & Storage**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,couchdb" />
+
+**Testing & Performance**
+<br/>
+<img src="https://skillicons.dev/icons?i=cypress,jest" />
+<img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+
+**Messaging & Event Streaming**
+<br/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,gitlab,bitbucket,linux,webpack" />
+<img src="https://img.shields.io/badge/ArgoCD-1e0b3e?style=for-the-badge&logo=argo&logoColor=%2300D4AA" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+
+**Dev Tools**
+<br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+
+</div>
+
+---
+
+## 🤖 AI & Agentic Engineering
+
+Not just calling LLM APIs — designing the orchestration layer around them: how agents plan, retrieve, reason, and hand off work reliably.
 
 <div align="center">
 
@@ -72,46 +111,22 @@ I'm not just calling LLM APIs — I design the **orchestration layer** around th
 |---|---|
 | 🧠 **Agentic Orchestration** | Multi-agent architectures, agent handoff & routing, task decomposition, LangGraph state machines |
 | 🔍 **RAG Systems** | Retrieval pipelines, vector search, chunking strategies, grounding LLM output in real data |
-| 🛠️ **AI-Assisted Engineering** | Claude Code, Cursor — using AI-native dev tools to design, refactor, and ship faster without sacrificing architecture quality |
+| 🛠️ **AI-Assisted Engineering** | Claude Code, Cursor — used for architecture, refactors, and system design, not just autocomplete |
 | ✍️ **Prompt Engineering** | Structured prompting, tool-use design, context management for reliable multi-step agent behavior |
-| 🔗 **LLM Integration** | Azure OpenAI, LangChain, LangGraph — wiring LLMs into existing event-driven backend systems, not building AI in isolation |
-| 🏗️ **System Design for AI** | Designing agent systems with the same rigor as distributed systems — fault tolerance, observability, and predictable failure modes |
+| 🔗 **LLM Integration** | Azure OpenAI, LangChain, LangGraph — wired into existing event-driven backend systems |
+| 🏗️ **System Design for AI** | Agent systems built with distributed-systems rigor — fault tolerance, observability, predictable failure modes |
 
 </div>
 
----
-
-## 🛠️ Core Stack
-
 <div align="center">
 
-**Backend & Event Streaming**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,ts,kafka,nestjs" />
-
-**AI / Agentic Engineering**
-<br/>
+<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=python" />
-
-**Data & Storage**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=angular,react" />
-
-**Infra & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git" />
-<img src="https://img.shields.io/badge/ArgoCD-1e0b3e?style=for-the-badge&logo=argo&logoColor=%2300D4AA" />
 
 </div>
 
@@ -124,7 +139,7 @@ graph LR
     A[Enterprise Data] -->|Event Stream| B[Kafka]
     B --> C[Node.js + TS Microservices]
     C --> D{Idempotent Processing}
-    D --> E[(PostgreSQL / MongoDB)]
+    D --> E[(PostgreSQL / MongoDB / Redis)]
     C --> F[Multi-Agent Orchestration<br/>LangGraph]
     F --> R[(RAG / Vector Retrieval)]
     F --> H2[Azure OpenAI Agents]
@@ -143,22 +158,11 @@ graph LR
     style H fill:#791F1F,color:#fff
 ```
 
-Correctness, fault tolerance, and zero data loss first — intelligence layered on top, not bolted underneath. Agents are treated like distributed system components: they need retries, observability, and graceful failure, not just a good prompt.
+Correctness, fault tolerance, and zero data loss first — intelligence layered on top, not bolted underneath.
 
 ---
 
-## 🚧 What I'm Building Now
-
-- 🤖 **Multi-agent systems** with LangGraph — task routing, agent handoff, and state management for complex enterprise workflows
-- 🔍 **RAG pipelines** that ground LLM output in real, auditable enterprise data instead of relying on model memory
-- 🛠️ Using **Claude Code** and **Cursor** as first-class engineering tools — accelerating architecture, refactors, and system design work, not just autocomplete
-- 🔗 Orchestration layers where AI agents operate inside strict, auditable, event-driven infrastructure — not standalone chatbots
-- 📊 Applying the same rigor from distributed systems (idempotency, fault tolerance, observability) to **agentic AI workflows**
-- 🎓 Continuing applied AI/ML research, building on published work in ML-based heart disease prediction
-
----
-
-## 📊 GitHub Analytics & Daily Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -175,16 +179,6 @@ Correctness, fault tolerance, and zero data loss first — intelligence layered 
 
 </div>
 
-### 🐍 Contribution Snake (daily commit graph, animated)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manish0502/manish0502/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> ⚙️ **One-time setup** (if not already done): add a `.github/workflows/snake.yml` using the `Platane/snk` action in your `manish0502/manish0502` repo — it regenerates this snake from your real contribution graph every 6 hours.
-
 <div align="center">
 
 [![Manish's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish0502&theme=tokyo-night&hide_border=true&bg_color=0d1117&custom_title=Daily%20Contribution%20Graph)](https://github.com/manish0502)
@@ -197,7 +191,7 @@ Correctness, fault tolerance, and zero data loss first — intelligence layered 
 
 ## 🤝 Let's Talk
 
-I'm open to **Senior Backend / Staff Engineer** roles at product companies working on hard problems in:
+Open to **Senior Backend / Staff Engineer** roles at product companies working on hard problems in:
 
 **FinTech · Payments · AI-native Platforms · Enterprise Automation · Distributed Systems**
 
@@ -209,6 +203,6 @@ I'm open to **Senior Backend / Staff Engineer** roles at product companies worki
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:2c5364,100:0f2027&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:2c5364,100:0f2027&height=90&section=footer" />
 
 </div>
