@@ -109,6 +109,16 @@ Not just calling LLM APIs — designing the orchestration layer around them: how
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git" />
 <img src="https://img.shields.io/badge/ArgoCD-1e0b3e?style=for-the-badge&logo=argo&logoColor=%2300D4AA" />
 
+**🔐 Security, Auth & Access Control**
+<br/>
+<img src="https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white" />
+<img src="https://img.shields.io/badge/SAML-004C97?style=for-the-badge&logo=okta&logoColor=white" />
+<img src="https://img.shields.io/badge/SSO-6E56CF?style=for-the-badge&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ABAC-C0392B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ACL-34495E?style=for-the-badge" />
+
 </div>
 
 ---
