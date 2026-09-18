@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Manish Kumar Giri
 
-### Senior Backend Engineer | Event-Driven Systems @ Serrala | Building AI-Native Financial Automation
+### Senior Backend Engineer | Event-Driven Systems | Building AI-Native Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Event-Driven+Backend+%7C+Kafka+%7C+Distributed+Systems;40%25+Perf+Improvement+via+Architecture%2C+Not+Just+Code;Now+Building%3A+LLM+Agents+%2B+LangGraph+in+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Event-Driven+Backend+%7C+Kafka+%7C+Distributed+Systems;Performance+Gains+via+Architecture%2C+Not+Just+Code;Now+Building%3A+LLM+Agents+%2B+LangGraph+in+Production" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-giri/)
 [![Gmail](https://img.shields.io/badge/Gmail-Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishgoswami495@gmail.com)
@@ -18,15 +18,15 @@
 
 I've spent **5+ years making sure financial systems don't break when it matters most.**
 
-At **Serrala**, I build event-driven backend infrastructure for enterprise invoice processing and financial automation — systems where correctness isn't optional and performance directly affects business outcomes.
+I build **event-driven backend infrastructure** for enterprise-scale automation — systems where correctness isn't optional and performance directly affects business outcomes.
 
-One of my contributions **improved invoice processing performance by 40%** — that came from rethinking the architecture, not just optimizing code.
+One of my contributions **improved processing performance by 40%** — that came from rethinking the architecture, not just optimizing code.
 
-I'm now leading backend design for **AI-powered automation** using **Azure OpenAI + LangGraph**, integrating LLM-based agents into financial reconciliation workflows to cut down manual exception handling.
+I now design backend systems for **AI-powered automation**, integrating **LLM-based agents** into production workflows to reduce manual, repetitive work.
 
-🏆 **Recognised as a Top Performer** for architecture contributions and processing performance improvements.
+🏆 Recognised as a **Top Performer** for architecture contributions and measurable performance improvements
 
-🎓 I published research on **ML-based heart disease prediction** — where my interest in applied AI started.
+🎓 Published research on **ML-based heart disease prediction** — where my interest in applied AI started
 
 🟢 **Open to:** Senior Backend / Staff Engineer roles in FinTech · Payments · AI-native Platforms · Enterprise Automation · Distributed Systems
 
@@ -34,36 +34,9 @@ I'm now leading backend design for **AI-powered automation** using **Azure OpenA
 
 ---
 
-## 💼 Experience
-
-### **Senior Software Engineer** — [Serrala](https://www.linkedin.com/company/28989543/)
-📍 Pune, India (Hybrid) · Aug 2025 – Present
-
-- Architecting **event-driven microservices** in Node.js + TypeScript on **Kafka** to handle enterprise-scale invoice processing and financial automation for global clients — optimizing for throughput, fault tolerance, and zero data loss
-- Designing distributed system patterns — **consumer groups, dead-letter queues, idempotent processing** — to keep async financial pipelines consistent for enterprise accounts
-- Leading backend design for AI-powered automation using **Azure OpenAI + LangGraph**, integrating LLM agents into financial reconciliation to reduce manual exception handling
-
-### **Software Engineer** — Serrala
-📍 Dec 2022 – Jul 2025 · 2 yrs 8 mos
-
-- Contributed to a **re-architecture of the invoice processing pipeline** using event-driven design — delivering a **40% improvement** in processing performance across workflows handling thousands of financial documents daily
-- Built and maintained Node.js + TypeScript backend services integrated with **Kafka event streams**, enabling real-time status tracking, automated reconciliation triggers, and audit-compliant processing logs
-- Recognised as **Top Performer** for architecture contributions and measurable performance improvements
-
----
-
 ## 🧭 Domain Breadth
 
-Most backend engineers stay in one lane. I've shipped production systems across:
-
-| Domain | Work |
-|---|---|
-| 💰 **FinTech** | Enterprise invoice processing & financial automation @ Serrala |
-| 🎮 **Gaming** | Hungama — Pleng, Hungama Play |
-| ⛓️ **Blockchain** | Hyperledger Fabric & Indy @ UL Technology |
-| 🏢 **Enterprise Automation** | Workflow automation, reconciliation systems |
-
-Each domain taught me something different about what **"production-ready"** actually means.
+I've shipped production systems across multiple industries — FinTech, gaming, blockchain, and enterprise workflow automation — and each one taught me something different about what **"production-ready"** actually means.
 
 ---
 
@@ -107,12 +80,12 @@ Each domain taught me something different about what **"production-ready"** actu
 
 ```mermaid
 graph LR
-    A[Enterprise Financial Data] -->|Event Stream| B[Kafka]
+    A[Enterprise Data] -->|Event Stream| B[Kafka]
     B --> C[Node.js + TS Microservices]
     C --> D{Idempotent Processing}
     D --> E[PostgreSQL / MongoDB]
     C --> F[LangGraph + Azure OpenAI Agents]
-    F --> G[Automated Reconciliation]
+    F --> G[Automated Workflows]
     D -.dead-letter queue.-> H[Fault Recovery]
     style F fill:#00D9FF,color:#000
     style B fill:#000,color:#fff
@@ -124,14 +97,14 @@ Correctness, fault tolerance, and zero data loss first — intelligence layered 
 
 ## 🚧 What I'm Building Now
 
-- 🤖 Production **LLM agents** integrated into financial reconciliation pipelines using **LangGraph**
+- 🤖 Production **LLM agents** integrated into enterprise reconciliation/automation pipelines using **LangGraph**
 - 🔗 Orchestration layers where AI agents operate inside strict, auditable, event-driven infrastructure — not standalone chatbots
 - 📊 Applying the same rigor from distributed systems (idempotency, fault tolerance) to **agentic AI workflows**
 - 🎓 Continuing applied AI/ML research, building on published work in ML-based heart disease prediction
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Daily Activity
 
 <div align="center">
 
@@ -143,15 +116,22 @@ Correctness, fault tolerance, and zero data loss first — intelligence layered 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manish0502&theme=radical)](https://github.com/manish0502)
-[![trophy](https://github-profile-trophy.vercel.app/?username=manish0502&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6)](https://github.com/manish0502)
 
 </div>
 
 <div align="center">
 
-[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish0502&theme=react-dark)](https://github.com/manish0502)
+[![trophy](https://github-profile-trophy.vercel.app/?username=manish0502&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/manish0502)
 
 </div>
+
+<div align="center">
+
+[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish0502&theme=react-dark&custom_title=Daily%20Contribution%20Graph)](https://github.com/manish0502)
+
+</div>
+
+> 🔥 I commit daily — the streak stats and activity graph above update automatically and reflect real, ongoing work.
 
 ---
 
