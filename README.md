@@ -17,11 +17,13 @@
 
 ## 🎯 About Me
 
-I've spent **5+ years making sure systems don't break when it matters most** — full stack development, event-driven backend architecture, and system design at enterprise scale.
+I've spent **5+ years writing production code** for systems that can't break when it matters most — full stack development, event-driven backend architecture, and system design at enterprise scale. Still hands-on and shipping code every day.
 
 One of my contributions **improved processing performance by 40%** — that came from rethinking the architecture, not just optimizing code.
 
 I now design **multi-agent AI systems** — RAG pipelines, agentic orchestration, LLM integration — building them with the same rigor I apply to distributed systems: fault tolerance, idempotency, and correctness first, intelligence layered on top.
+
+💻 **Still hands-on daily** — writing production code, not just designing on paper. Architecture decisions are backed by code I ship myself.
 
 <table>
 <tr>
@@ -60,11 +62,23 @@ Production systems shipped across FinTech, gaming, blockchain, and enterprise wo
 
 ---
 
-## 🤖 Agentic AI & LLM Engineering
+## 🛠️ Skills
 
 Not just calling LLM APIs — designing the orchestration layer around them: how agents plan, retrieve, reason, and hand off work reliably.
 
 <div align="center">
+
+**🤖 Agentic AI & LLM Engineering**
+<br/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+
+<br/><br/>
 
 | Area | What I work with |
 |---|---|
@@ -76,22 +90,6 @@ Not just calling LLM APIs — designing the orchestration layer around them: how
 | 🏗️ **System Design for AI** | Agent systems built with distributed-systems rigor — fault tolerance, observability, predictable failure modes |
 
 <br/>
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-
-</div>
-
----
-
-## 🛠️ Skills
-
-<div align="center">
 
 **⚙️ Backend**
 <br/>
