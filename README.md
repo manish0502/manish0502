@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=200&section=header&text=Manish%20Kumar%20Giri&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Event-Driven%20Systems%20%7C%20AI-Native%20Automation&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Event-Driven+Backend+%7C+Kafka+%7C+Distributed+Systems;Performance+Gains+via+Architecture%2C+Not+Just+Code;Now+Building%3A+LLM+Agents+%2B+LangGraph+in+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Event-Driven+Backend+%7C+Kafka+%7C+Distributed+Systems;Designing+Multi-Agent+%2B+RAG+Systems+in+Production;Claude+Code+%7C+Cursor+%7C+LangGraph+%7C+Agentic+Orchestration" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@ I build **event-driven backend infrastructure** for enterprise-scale automation 
 
 One of my contributions **improved processing performance by 40%** — that came from rethinking the architecture, not just optimizing code.
 
-I now design backend systems for **AI-powered automation**, integrating **LLM-based agents** into production workflows to reduce manual, repetitive work.
+I now design **multi-agent AI systems** — combining RAG pipelines, agentic orchestration, and LLM integration — and build them the same way I build distributed systems: with fault tolerance, idempotency, and correctness in mind, not as isolated scripts.
 
 <table>
 <tr>
@@ -62,6 +62,25 @@ I've shipped production systems across multiple industries — FinTech, gaming, 
 
 ---
 
+## 🤖 AI Engineering Toolkit
+
+I'm not just calling LLM APIs — I design the **orchestration layer** around them: how agents plan, retrieve, reason, and hand off work reliably.
+
+<div align="center">
+
+| Area | What I work with |
+|---|---|
+| 🧠 **Agentic Orchestration** | Multi-agent architectures, agent handoff & routing, task decomposition, LangGraph state machines |
+| 🔍 **RAG Systems** | Retrieval pipelines, vector search, chunking strategies, grounding LLM output in real data |
+| 🛠️ **AI-Assisted Engineering** | Claude Code, Cursor — using AI-native dev tools to design, refactor, and ship faster without sacrificing architecture quality |
+| ✍️ **Prompt Engineering** | Structured prompting, tool-use design, context management for reliable multi-step agent behavior |
+| 🔗 **LLM Integration** | Azure OpenAI, LangChain, LangGraph — wiring LLMs into existing event-driven backend systems, not building AI in isolation |
+| 🏗️ **System Design for AI** | Designing agent systems with the same rigor as distributed systems — fault tolerance, observability, and predictable failure modes |
+
+</div>
+
+---
+
 ## 🛠️ Core Stack
 
 <div align="center">
@@ -70,12 +89,15 @@ I've shipped production systems across multiple industries — FinTech, gaming, 
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,ts,kafka,nestjs" />
 
-**AI / LLM Orchestration**
+**AI / Agentic Engineering**
 <br/>
 <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=python" />
 
 **Data & Storage**
@@ -103,8 +125,10 @@ graph LR
     B --> C[Node.js + TS Microservices]
     C --> D{Idempotent Processing}
     D --> E[(PostgreSQL / MongoDB)]
-    C --> F[LangGraph + Azure OpenAI Agents]
-    F --> G[Automated Workflows]
+    C --> F[Multi-Agent Orchestration<br/>LangGraph]
+    F --> R[(RAG / Vector Retrieval)]
+    F --> H2[Azure OpenAI Agents]
+    H2 --> G[Automated Workflows]
     D -.dead-letter queue.-> H[Fault Recovery]
 
     style A fill:#26215C,color:#fff
@@ -113,19 +137,23 @@ graph LR
     style D fill:#712B13,color:#fff
     style E fill:#27500A,color:#fff
     style F fill:#00D9FF,color:#000
+    style R fill:#534AB7,color:#fff
+    style H2 fill:#085041,color:#fff
     style G fill:#085041,color:#fff
     style H fill:#791F1F,color:#fff
 ```
 
-Correctness, fault tolerance, and zero data loss first — intelligence layered on top, not bolted underneath.
+Correctness, fault tolerance, and zero data loss first — intelligence layered on top, not bolted underneath. Agents are treated like distributed system components: they need retries, observability, and graceful failure, not just a good prompt.
 
 ---
 
 ## 🚧 What I'm Building Now
 
-- 🤖 Production **LLM agents** integrated into enterprise reconciliation/automation pipelines using **LangGraph**
+- 🤖 **Multi-agent systems** with LangGraph — task routing, agent handoff, and state management for complex enterprise workflows
+- 🔍 **RAG pipelines** that ground LLM output in real, auditable enterprise data instead of relying on model memory
+- 🛠️ Using **Claude Code** and **Cursor** as first-class engineering tools — accelerating architecture, refactors, and system design work, not just autocomplete
 - 🔗 Orchestration layers where AI agents operate inside strict, auditable, event-driven infrastructure — not standalone chatbots
-- 📊 Applying the same rigor from distributed systems (idempotency, fault tolerance) to **agentic AI workflows**
+- 📊 Applying the same rigor from distributed systems (idempotency, fault tolerance, observability) to **agentic AI workflows**
 - 🎓 Continuing applied AI/ML research, building on published work in ML-based heart disease prediction
 
 ---
@@ -155,33 +183,7 @@ Correctness, fault tolerance, and zero data loss first — intelligence layered 
 
 </div>
 
-> ⚙️ **One-time setup for the snake animation above** (this makes your daily commit streak visually undeniable):
-> 1. Go to your profile repo → **Settings → Actions → General** → enable Actions
-> 2. Add this file at `.github/workflows/snake.yml` in your `manish0502/manish0502` repo:
-> ```yaml
-> name: generate snake
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch: {}
->   push:
->     branches: [ main ]
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: manish0502
->           outputs: dist/github-contribution-grid-snake-dark.svg
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> 3. Commit it — the snake regenerates automatically every 6 hours from your real contribution graph.
+> ⚙️ **One-time setup** (if not already done): add a `.github/workflows/snake.yml` using the `Platane/snk` action in your `manish0502/manish0502` repo — it regenerates this snake from your real contribution graph every 6 hours.
 
 <div align="center">
 
