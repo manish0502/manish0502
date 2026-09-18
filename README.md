@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d9ff&height=190&section=header&text=Manish%20Kumar%20Giri&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20System%20Architect%20%7C%20AI-Native%20Automation&descAlignY=58&descSize=16" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Building+Systems+That+Can't+Break;Full+Stack+%7C+Event-Driven+Backend+%7C+System+Design;Designing+Multi-Agent+%2B+RAG+Systems+in+Production;Claude+Code+%7C+Cursor+%7C+LangGraph+%7C+Agentic+Orchestration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=5%2B+Years+Building+Systems+That+Can't+Break;Full+Stack+%7C+Event-Driven+Backend+%7C+System+Design;Designing+Multi-Agent+%2B+RAG+Systems+in+Production;Claude+Code+%2B+Cursor+%2B+LangGraph+%2B+Agents" alt="Typing SVG" />
 
 <br/>
 
